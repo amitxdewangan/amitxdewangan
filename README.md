@@ -3,7 +3,8 @@
 </h1>
 
 <h2 align="center"> Development 👨‍💻, Communities 👨‍👨‍👧‍👦 & Open Source ♥ </h2>
-<hr>
+
+---
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Visitor_Count-grey?style=for-the-badge&amp"/>
@@ -58,7 +59,7 @@
 
 <!-- ![VS Code](https://img.shields.io/badge/-VS_Code-orange?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white) -->
 
-<br>
+
 <h1 align="center"> Connect With Me Here 🙌 </h1> 
 <p align="center">
 <a href="https://www.twitter.com/iamamit_18/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/"/> </a>
@@ -82,9 +83,9 @@
 <p align="center">
 <a href="https://github.com/Amit-TheOne">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amit-TheOne&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact" style="margin-left:10px"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact" style="margin-left:20px"/>
 </a>
-<img height="280em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github" style="margin-top:20px"/>
+<img height="250em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github" style="margin-top:50px"/>
 </p>
 <br>
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
