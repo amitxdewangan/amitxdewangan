@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center"> Development 👨‍💻, Communities 👨‍👨‍👧‍👦 & Open Source ♥ </h2>
-<br>
+<br><br>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Visitor_Count-grey?style=for-the-badge&amp"/>
@@ -20,7 +20,7 @@
 - <a href="https://www.postman.com/"> Postman </a> Student Expert 🧙‍♀️
 
 
-<br>
+
 <h2 align="center"> <b> Experience 📈 </b> </h2> 
 
 - <a href="https://www.holidayhacks.co/"> Holiday Hacks Organizer </a> 🏖
@@ -76,13 +76,13 @@
 <img src="https://komarev.com/ghpvc/?username=Amit-TheOne&color=81b29a&style=for-the-badge&label=Profile Views"/>
 </p>
 
-<br>
+
 <h1 align="center"> GitHub Stats 📊 </h1>
 <br>
 <p align="center">
 <a href="https://github.com/Amit-TheOne">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Amit-TheOne&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/ >
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact" style="margin-left:20px"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amit-TheOne&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact" style="margin-left:10px"/>
 </a>
 <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github" style="margin-top:20px"/>
 </p>
