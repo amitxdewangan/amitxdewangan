@@ -85,8 +85,11 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact"/>
 </a>
 </p>
+
 <br>
+<p align="center">
 <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github"/>
+</p>
 
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
 
@@ -94,7 +97,7 @@
 <hr>
 <br>
 <p align="center">
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/> &nbsp;
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/> &nbsp;
 <img src="https://forthebadge.com/images/badges/uses-html.svg"/>
 </p>
