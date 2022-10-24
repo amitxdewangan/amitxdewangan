@@ -39,8 +39,8 @@
 <img src="https://img.shields.io/badge/-MySQL-pink?style=flat-square&amp;logo=mysql&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-blue?style=flat-square&amp;logo=html5&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS-violet?style=flat-square&amp;logo=css3&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&amp;logo=javascript&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/-React_JS-yellow?style=flat-square&amp;logo=react&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-grey?style=flat-square&amp;logo=javascript&amp;logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/-React-%2320232a?style=flat-square&amp;logo=react&amp;logoColor=%2361DAFB"/>
 </p>
 
 <!-- ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&amp;logo=java&amp;logoColor=white) -->
@@ -59,12 +59,13 @@
 <!-- ![VS Code](https://img.shields.io/badge/-VS_Code-orange?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white) -->
 
 <br>
-<h1 align="center"> Connect With Me 🙌 </h1> 
+<h1 align="center"> Connect With Me Here 🙌 </h1> 
 <p align="center">
-<a href="https://www.twitter.com/iamamit_18/"> <img src="https://img.shields.io/badge/-Amit_Dewangan-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/"/> </a>
-<a href="https://www.instgram.com/iamamit.18/"><img src="https://img.shields.io/badge/-Amit_Dewangan-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instgram.com/iamamit.18/"/></a>
-<a href="https://www.linkedin.com/in/amit--dewangan/"><img src="https://img.shields.io/badge/-Amit_Dewangan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit--dewangan/"/></a>
-<a href="https://www.polywork.com/amitdewangan/"><img src="https://img.shields.io/badge/-Amit_Dewangan-black?style=for-the-badge&logo=polywork&logoColor=white&link=https://www.polywork.com/amitdewangan/"/></a>
+<a href="https://www.twitter.com/iamamit_18/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/"/> </a>
+<a href="https://www.instgram.com/iamamit.18/"><img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instgram.com/iamamit.18/"/></a>
+<a href="https://www.linkedin.com/in/amit--dewangan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit--dewangan/"/></a>
+<a href="https://www.polywork.com/amitdewangan/"><img src="https://img.shields.io/badge/-Polywork-black?style=for-the-badge&logo=polywork&logoColor=white&link=https://www.polywork.com/amitdewangan/"/></a>
+<img src="https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"/> 
 </p>
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Amit_Dewangan-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/)](https://www.twitter.com/iamamit_18/) -->
@@ -85,5 +86,14 @@
 </a>
 <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github" style="margin-top:20px"/>
 </p>
-
+<br>
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
+
+
+<hr>
+<br>
+<p align="center">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+<img src="https://forthebadge.com/images/badges/uses-html.svg"/>
+</p>
