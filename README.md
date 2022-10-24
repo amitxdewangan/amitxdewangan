@@ -82,11 +82,12 @@
 <p align="center">
 <a href="https://github.com/Amit-TheOne">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amit-TheOne&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/> &nbsp;
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact" style="margin-left:20px"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact"/>
 </a>
+</p>
 <br>
 <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github"/>
-</p>
+
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
 
 
