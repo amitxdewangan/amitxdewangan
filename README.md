@@ -61,10 +61,10 @@
 
 <h1 align="center"> Connect With Me Here 🙌 </h1> 
 <p align="center">
-<a href="https://www.twitter.com/iamamit_18/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/"/> </a> &nbsp;
-<a href="https://www.instgram.com/iamamit.18/"><img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instgram.com/iamamit.18/"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/amit--dewangan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit--dewangan/"/></a> &nbsp;
-<a href="https://www.polywork.com/amitdewangan/"><img src="https://img.shields.io/badge/-Polywork-black?style=for-the-badge&logo=polywork&logoColor=white&link=https://www.polywork.com/amitdewangan/"/></a> &nbsp;
+<a target="_blank" href="https://www.twitter.com/iamamit_18/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/"/> </a> &nbsp;
+<a target="_blank" href="https://www.instgram.com/iamamit.18/"><img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instgram.com/iamamit.18/"/></a> &nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/amit--dewangan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit--dewangan/"/></a> &nbsp;
+<a target="_blank" href="https://www.polywork.com/amitdewangan/"><img src="https://img.shields.io/badge/-Polywork-black?style=for-the-badge&logo=polywork&logoColor=white&link=https://www.polywork.com/amitdewangan/"/></a> &nbsp;
 <a href="mailto:amit.dew009@gmail.com"><img src="https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 </p>
 
