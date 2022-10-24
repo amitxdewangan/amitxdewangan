@@ -1,10 +1,10 @@
-a<h1 align="center">
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&pause=1000&color=FF9B54&center=true&vCenter=true&width=500&height=80&lines=Hey+There!!+%F0%9F%91%8B;I'm+Amit+Dewangan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+have+you+here!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="center"> Development 👨‍💻, Communities 👨‍👨‍👧‍👦 & Open Source ♥ </h2>
 
-
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/-Visitor_Count-grey?style=for-the-badge&amp"/>
     <img src="https://profile-counter.glitch.me/Amit-TheOne/count.svg"/> <br>
@@ -81,12 +81,11 @@ a<h1 align="center">
 <br>
 <p align="center">
 <a href="https://github.com/Amit-TheOne">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amit-TheOne&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Amit-TheOne&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact" style="margin-left:20px"/>
 </a>
 <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github" style="margin-top:50px"/>
 </p>
-<br>
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
 
 
