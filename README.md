@@ -1,10 +1,9 @@
-<h1 align="center">
+a<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&pause=1000&color=FF9B54&center=true&vCenter=true&width=500&height=80&lines=Hey+There!!+%F0%9F%91%8B;I'm+Amit+Dewangan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+have+you+here!+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="center"> Development 👨‍💻, Communities 👨‍👨‍👧‍👦 & Open Source ♥ </h2>
 
----
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Visitor_Count-grey?style=for-the-badge&amp"/>
@@ -62,11 +61,11 @@
 
 <h1 align="center"> Connect With Me Here 🙌 </h1> 
 <p align="center">
-<a href="https://www.twitter.com/iamamit_18/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/"/> </a>
-<a href="https://www.instgram.com/iamamit.18/"><img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instgram.com/iamamit.18/"/></a>
-<a href="https://www.linkedin.com/in/amit--dewangan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit--dewangan/"/></a>
-<a href="https://www.polywork.com/amitdewangan/"><img src="https://img.shields.io/badge/-Polywork-black?style=for-the-badge&logo=polywork&logoColor=white&link=https://www.polywork.com/amitdewangan/"/></a>
-<img src="https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"/> 
+<a href="https://www.twitter.com/iamamit_18/"> <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/"/> </a> &nbsp;
+<a href="https://www.instgram.com/iamamit.18/"><img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instgram.com/iamamit.18/"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/amit--dewangan/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit--dewangan/"/></a> &nbsp;
+<a href="https://www.polywork.com/amitdewangan/"><img src="https://img.shields.io/badge/-Polywork-black?style=for-the-badge&logo=polywork&logoColor=white&link=https://www.polywork.com/amitdewangan/"/></a> &nbsp;
+<a href="mailto:amit.dew009@gmail.com"><img src="https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 </p>
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Amit_Dewangan-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/iamamit_18/)](https://www.twitter.com/iamamit_18/) -->
