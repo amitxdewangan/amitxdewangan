@@ -10,23 +10,32 @@
     <img src="https://profile-counter.glitch.me/amitxdewangan/count.svg"/> <br>
 </p>
 
+## About Me
 
-<h1 align="center"> About Me 📑 </h1>
+- **Full Stack Developer | Frontend/UI Developer | Backend Developer 💻**
+- Learning & **Building on AI | RAG | GenAI | Agentic AI & Workflows 🚀** 
+- Ex-**Founding Campus Lead at Google Developer Group (GDG) on Campus** (previously known GDSC) 🌟
+- **Build, Grow & Lead Communities around Tech** 👨‍👨‍👧‍👦
+- **Postman Student Expert | GSSoC Contributor** 🧙‍♀️
+- Passionate about **Agentic AI, Generative AI & Cloud Infra** 🌍
+
+
+<!-- <h1 align="center"> About Me 📑 </h1>
 
 - Frontend Developer 💻
 - <a href="https://gdsc.community.dev/shri-shankaracharya-technical-campus-bhilai/"> Google Developer Student Clubs Lead at SSTC Bhilai 🌟 </a>
 - Community Enthusiasts 👨‍👨‍👧‍👦
 - Open Source Contributor ❤️
-- <a href="https://www.postman.com/"> Postman </a> Student Expert 🧙‍♀️
+- <a href="https://www.postman.com/"> Postman </a> Student Expert 🧙‍♀️ -->
 
 
 
-<h2 align="center"> <b> Experience 📈 </b> </h2> 
+<!-- <h2 align="center"> <b> Experience 📈 </b> </h2> 
 
 - <a href="https://www.holidayhacks.co/"> Holiday Hacks Organizer </a> 🏖
 - Event Organizer <a href="https://www.instagram.com/girlscriptdelhi/">Girlscript Delhi 🎪 </a>
 - Management Team @HackClubSSTC 📝
-- <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code 2022 </a> Contributor 🌏
+- <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code 2022 </a> Contributor 🌏 -->
 
 <br>
 <h1 align="center"> Played With 🔬 </h1>
