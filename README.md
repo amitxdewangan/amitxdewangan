@@ -82,7 +82,8 @@
 
 <br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amitxdewangan&color=81b29a&style=for-the-badge&label=Profile Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=amitxdewangan&color=81b29a&style=for-the-badge&label=Profile+Views"/> -->
+<img src="https://komarev.com/ghpvc/?username=amitxdewangan&color=blue&hide_border=true&style=flat&label=Profile+Views&base=514"/>
 </p>
 
 
@@ -90,7 +91,8 @@
 <br>
 <p align="center">
 <a href="https://github.com/amitxdewangan">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amitxdewangan&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/> &nbsp;
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amitxdewangan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+&nbsp;
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitxdewangan&theme=algolia&layout=compact"/>
 </a>
 </p>
@@ -98,6 +100,7 @@
 <br>
 <p align="center">
 <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=amitxdewangan&theme=github"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitxdewangan&theme=github-compact"/> -->
 </p>
 
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
