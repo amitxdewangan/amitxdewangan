@@ -7,7 +7,7 @@
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/-Visitor_Count-grey?style=for-the-badge&amp"/>
-    <img src="https://profile-counter.glitch.me/Amit-TheOne/count.svg"/> <br>
+    <img src="https://profile-counter.glitch.me/amitxdewangan/count.svg"/> <br>
 </p>
 
 
@@ -73,22 +73,22 @@
 
 <br>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amit-TheOne&color=81b29a&style=for-the-badge&label=Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=amitxdewangan&color=81b29a&style=for-the-badge&label=Profile Views"/>
 </p>
 
 
 <h1 align="center"> GitHub Stats 📊 </h1>
 <br>
 <p align="center">
-<a href="https://github.com/Amit-TheOne">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Amit-TheOne&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/> &nbsp;
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-TheOne&theme=algolia&layout=compact"/>
+<a href="https://github.com/amitxdewangan">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amitxdewangan&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true&count_private=true"/> &nbsp;
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitxdewangan&theme=algolia&layout=compact"/>
 </a>
 </p>
 
 <br>
 <p align="center">
-<img height="250em" src="https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github"/>
+<img height="250em" src="https://activity-graph.herokuapp.com/graph?username=amitxdewangan&theme=github"/>
 </p>
 
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
