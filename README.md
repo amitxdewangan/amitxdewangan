@@ -97,10 +97,10 @@
 </a>
 </p>
 
-<br>
+<!-- <br> -->
 <p align="center">
-<img height="250em" src="https://activity-graph.herokuapp.com/graph?username=amitxdewangan&theme=github"/>
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitxdewangan&theme=github-compact"/> -->
+<!-- <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=amitxdewangan&theme=github"/> -->
+<img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=amitxdewangan&theme=github-compact"/>
 </p>
 
 <!-- ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Amit-TheOne&theme=github) -->
