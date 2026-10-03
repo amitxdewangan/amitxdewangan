@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=400&size=32&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=60&lines=Hey!+%F0%9F%91%8B+I'm+Amit+Dewangan+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;" alt="Typing SVG" />
 </h1>
 
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=amitxdewangan&color=blue&hide_border=true&style=flat&label=Profile+Views&base=1826)
+<img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=amitxdewangan&color=blue&hide_border=true&style=flat&label=Profile+Views&base=2126">  
 
 ## About Me
 
