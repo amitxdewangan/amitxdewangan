@@ -5,6 +5,14 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=amitxdewangan&color=blue&hide_border=true&style=flat&label=Profile+Views&base=1826)
 
+## About Me
+
+- **Full Stack Developer | Frontend/UI Developer | Backend Developer 💻**
+- Learning & **Building on AI | RAG | GenAI | Agentic AI & Workflows 🚀** 
+- Ex-**Founding Campus Lead at Google Developer Group (GDG) on Campus** (previously known GDSC) 🌟
+- **Build, Grow & Lead Communities around Tech** 👨‍👨‍👧‍👦
+- **Postman Student Expert | GSSoC Contributor** 🧙‍♀️
+- Passionate about **Agentic AI, Generative AI & Cloud Infra** 🌍
 
 ## GitHub Stats
 
@@ -12,10 +20,10 @@
 
 <p align="center">
   <a href="https://github.com/amitxdewangan/github-readme-stats">
-    <img height="200em" alt="My GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=amitxdewangan&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" />
+    <img height="190em" alt="My GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=amitxdewangan&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" />
   </a> &nbsp; &nbsp;
   <a href="https://github.com/carrycooldude/github-readme-stats">
-    <img style="margin-left:'10em'" height="200em" alt="My Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=amitxdewangan&layout=compact&langs_count=6&count_private=true&theme=ambient_gradient&hide_border=true" />
+    <img style="margin-left:'10em'" height="190em" alt="My Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=amitxdewangan&layout=compact&langs_count=6&count_private=true&theme=ambient_gradient&hide_border=true" />
   </a>
 </p>
 
