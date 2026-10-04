@@ -13,6 +13,32 @@
 - **Postman Student Expert | GSSoC Contributor** 🧙‍♀️
 - Passionate about **Agentic AI, Generative AI & Cloud Infra** 🌍
 
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+<pre> JavaScript, TypeScript, Python, Java, C, HTML5, CSS3 </pre>
+
+### Backend
+<pre> Node.js, Express.js, FastAPI, REST APIs, WebSockets </pre> 
+
+### Frontend
+<pre> React.js, Next.js, Tailwind CSS, Redux </pre>
+
+### Databases & Storage
+<pre> MongoDB, PostgreSQL, Redis, Firebase </pre>
+
+### DevOps & Cloud
+<pre> Docker, AWS, Git, GitHub, Postman, Vercel </pre>
+
+### AI & Integrations
+<pre> OpenAI, Groq, Vercel AI SDK </pre>
+
+### IDE & Agentic IDE
+<pre> VS Code, Antigravity </pre>
+
+---
+
 ## GitHub Stats
 
 ### 📊 My Contribution Stats  
